@@ -1,7 +1,7 @@
 # Confectionery Stoving Energy Modeling and Multi Objective Optimization
 Supplementary Material
 
-License: ???
+License: LGPL
 
 Version: 1.0
 
