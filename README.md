@@ -5,12 +5,15 @@ License: LGPL
 
 Version: 1.0
 
-# Supplementary 3-D pareto fronts
-Each climate zone can be accessed here:
+# Supplementary 3-D pareto fronts including data and python code to recreate the plots
+Each plot for the different climates zone can be accessed here:
 Las Vegas - https://plot.ly/~legorburu/9/
 Omaha, Nebraska - https://plot.ly/~legorburu/16/
 Salt Lake City, Utah - https://plot.ly/~legorburu/20/
 Houston, Texas - https://plot.ly/~legorburu/18/
+
+# Stove Drying Profile
+Ohama - https://plotly.com/~legorburu/24/
 
 # Code for Energy model and Optimization
 The Python notebook file may be used to model a generic confectionery stove in different weather climates.  The model may evaluate different amounts of circulation air and outside air.  Additionally, the user may run a multi-objective optimization on the system to find the optimal solution set.
